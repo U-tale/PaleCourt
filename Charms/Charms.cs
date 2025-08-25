@@ -1,6 +1,6 @@
 ﻿namespace FiveKnights
 {
-    internal class Charms
+    public class Charms
     {
         public const int GatheringSwarm = 1;
         public const int WaywardCompass = 2;
